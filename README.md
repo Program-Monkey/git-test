@@ -1,4 +1,6 @@
 # git-test
 how to use git ?
-## lalala~
+## +lalala~
 add lalala~
+## -lalala~
+remove lalala~
